@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Emoji Art Greetings</string>
+
+    <string name="morning">Morning</string>
+    <string name="night">Night</string>
+    <string name="enter_build_no_here">Enter Build Code here</string>
+    <string name="generate">Generate</string>
+    <string name="copy">Copy</string>
+    <string name="share">Share</string>
+
+
+    <!-- Strings required for morning greetings-->
+    <string name="red">🟥</string>
+    <string name="blue">🟦</string>
+    <string name="brown">🟫</string>
+    <string name="green">🟩</string>
+    <string name="orange">🟧</string>
+    <string name="yellow">🟨</string>
+    <string name="purple">🟪</string>
+
+    <string name="tree1">🌴</string>
+    <string name="tree2">🌳</string>
+    <string name="tree3">🌲</string>
+
+    <!-- Strings required for night greetings-->
+    <string name="star1">🌟</string>
+    <string name="star2">⭐</string>
+    <string name="star3">✨</string>
+    <string name="shooting_star">🌠</string>
+    <string name="comet">☄</string>
+
+    <string name="earth">🌏</string>
+    <string name="saturn">🪐</string>
+
+    <string name="moon_phase1">🌑</string>
+    <string name="moon_phase2">🌒</string>
+    <string name="moon_phase3">🌓</string>
+    <string name="moon_phase4">🌔</string>
+    <string name="moon_phase5">🌕</string>
+    <string name="moon_phase6">🌖</string>
+    <string name="moon_phase7">🌗</string>
+    <string name="moon_phase8">🌘</string>
+    <string name="moon_phase9">🌙</string>
+
+
+</resources>
